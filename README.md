@@ -1,5 +1,5 @@
 # node-saludo
-prueba npm de un saludo
+	prueba npm de un saludo
 
 # Installation
 
