@@ -3,5 +3,9 @@ function saludo(name = "Alejandro") {
   }
   
 console.log('------------------------------------');
-console.log(saludo);
+console.log(saludo());
 console.log('------------------------------------');
+
+module.exports = {
+  saludo
+};
