@@ -1,5 +1,5 @@
 {
-  "name": "saludo",
+  "name": "@alemas/node-saludo",
   "version": "1.0.0",
   "description": "publicacion de prueba npm de saludo",
   "main": "index.js",
