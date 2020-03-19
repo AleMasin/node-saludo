@@ -1,6 +1,6 @@
 {
   "name": "@alemas/node-saludo",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "publicacion de prueba npm de saludo",
   "main": "index.js",
   "scripts": {
