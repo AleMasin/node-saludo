@@ -1,0 +1,25 @@
+{
+  "name": "saludo",
+  "version": "1.0.0",
+  "description": "publicacion de prueba npm de saludo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleMasin/node-saludo.git"
+  },
+  "keywords": [
+    "node",
+    "saludo",
+    "prueba",
+    "npm"
+  ],
+  "author": "Alejandro M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AleMasin/node-saludo/issues"
+  },
+  "homepage": "https://github.com/AleMasin/node-saludo#readme"
+}
