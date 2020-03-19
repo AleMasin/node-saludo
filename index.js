@@ -6,3 +6,7 @@ function saludo(name = "Alejandro") {
 module.exports = {
   saludo,
 };
+
+// export default {
+//   saludo,
+// };
